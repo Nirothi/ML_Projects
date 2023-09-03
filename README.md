@@ -1,70 +1,65 @@
-# My Machine Learning Portfolio
+# My Machine Learning Projects
 
-Welcome to my GitHub portfolio, where I showcase five machine learning projects that demonstrate the understanding of fundemental data science and machine learning concepts
+Welcome to my GitHub, where I present a collection of five machine learning projects that showcase my understanding of fundamental data science and machine learning principles.
 
 ## Projects
 
 ### 1. Housing Price Regression
 
-**Description:** Linear Regression model to predict Housing Price
+**Description:** Implemented a Linear Regression model to predict housing prices.
 
-**Packages Used:** pandas, Numpy, scikit-learn, Matplotlib, Seaborn
+**Packages Used:** pandas, numpy, scikit-learn, matplotlib, seaborn
 
-**Machnine Learning Concepts:**  Feature Engeniring, Data Analysis, Outliers, Linear Regression
+**Machine Learning Concepts:** Feature Engineering, Data Analysis, Outlier Detection, Linear Regression
 
-**Notebook:** [Link to Notebook](01regression_housingprice\housingpriceregression.ipynb)
+**Notebook:** [Link to Notebook](01_regression_housingprice/housing_price_regression.ipynb)
 
-### 2. Costumer Classification
+### 2. Customer Classification
 
-**Description:** Using classification methods to classify costumers based on simple features
+**Description:** Utilized classification methods to categorize customers based on simple features.
 
-**Packages Used:** pandas, Numpy, scikit-learn, Matplotlib, Seaborn
+**Packages Used:** pandas, numpy, scikit-learn, matplotlib, seaborn
 
-**Machnine Learning Concepts:**  Data Imputation, Encoding, Classification, Model Evaluation
+**Machine Learning Concepts:** Data Imputation, Feature Encoding, Classification, Model Evaluation
 
-**Notebook:** [Link to Notebook](02costumer_classification\costumer_classification.ipynb)
+**Notebook:** [Link to Notebook](02_customer_classification/customer_classification.ipynb)
 
 ### 3. Twitter Comments Sentiment Analysis 
 
-**Description:** Classifying twitter comments
+**Description:** Conducted sentiment analysis on Twitter comments.
 
-**Packages Used:** pandas, Numpy, scikit-learn, Matplotlib, Seaborn, re, nltk
+**Packages Used:** pandas, numpy, scikit-learn, matplotlib, seaborn, re, nltk
 
-**Machnine Learning Concepts:**  Natural Language Prosessing, TF-IDF, Bag-Of-Words
+**Machine Learning Concepts:** Natural Language Processing, TF-IDF, Bag-Of-Words
 
-**Notebook:** [Link to Notebook](03sentiment_analysis\twitter_sentiment_analysis.ipynb)
+**Notebook:** [Link to Notebook](03_sentiment_analysis/twitter_sentiment_analysis.ipynb)
 
 ### 4. Country Segmentation
 
-**Description:** Using unsupervised methods to cluster countries based on development
+**Description:** Applied unsupervised methods to cluster countries based on their development indicators.
 
-**Packages Used:** pandas, Numpy, scikit-learn, Matplotlib, Seaborn, plotly
+**Packages Used:** pandas, numpy, scikit-learn, matplotlib, seaborn, plotly
 
-**Machnine Learning Concepts:**  PCA, K-means
+**Machine Learning Concepts:** Principal Component Analysis (PCA), K-means Clustering
 
-**Notebook:** [Link to Notebook](04country_segmentation\country_segmentation.ipynb)
+**Notebook:** [Link to Notebook](04_country_segmentation/country_segmentation.ipynb)
 
 ### 5. Image Classification 
 
-**Description:** Creating a pytorch convolutional neural network to classify landscape images
+**Description:** Developed a PyTorch-based convolutional neural network for classifying landscape images.
 
-**Packages Used:** pandas, Numpy, scikit-learn, Matplotlib, Seaborn, pytorch
+**Packages Used:** pandas, numpy, scikit-learn, matplotlib, seaborn, pytorch
 
-**Machnine Learning Concepts:**  Neural Networks, Deep Learning
+**Machine Learning Concepts:** Neural Networks, Deep Learning
 
-**Notebook:** [Link to Notebook](05image_classification\image_classification.ipynb)
-
+**Notebook:** [Link to Notebook](05_image_classification/image_classification.ipynb)
 
 ## About Me
 
-My name is David Elias Hammershøi.
-
-I am currently studing my masters degree in mathematical modelling at Technical University of Denmark (DTU).
-
-Machine learning and mathematics have always been fasinating to me. Being able to create something form concepts to carry out task is incredible. I am very passionate about acuring more knowledge that I can apply to problems.
+I'm David Elias Hammershøi, currently pursuing my master's degree in mathematical modeling at the Technical University of Denmark (DTU). My passion lies in machine learning and mathematics, and I find the process of translating concepts into practical solutions truly fascinating. I'm dedicated to acquiring more knowledge that I can apply to solving real-world problems.
 
 ## Contact
 
-You can reach me at [dhammershoi2110@hotmail.com] for inquiries, collaborations, or feedback on my projects.
+Feel free to reach out to me at [dhammershoi2110@hotmail.com](mailto:dhammershoi2110@hotmail.com) for inquiries, collaboration opportunities, or feedback on my projects.
 
-Thank you for visiting my portfolio!
+Thank you for visiting!
