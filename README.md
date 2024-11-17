@@ -12,7 +12,7 @@ Welcome to my GitHub, where I present a collection of five machine learning proj
 
 **Machine Learning Concepts:** Feature Engineering, Data Analysis, Outlier Detection, Linear Regression
 
-**Notebook:** [Link to Notebook](01_regression_housingprice/housing_price_regression.ipynb)
+**Notebook:** [Link to Notebook](01regression_housingprice/housingpriceregression.ipynb)
 
 ### 2. Customer Classification
 
@@ -22,7 +22,7 @@ Welcome to my GitHub, where I present a collection of five machine learning proj
 
 **Machine Learning Concepts:** Data Imputation, Feature Encoding, Classification, Model Evaluation
 
-**Notebook:** [Link to Notebook](02_customer_classification/customer_classification.ipynb)
+**Notebook:** [Link to Notebook](02customer_classification/customer_classification.ipynb)
 
 ### 3. Twitter Comments Sentiment Analysis 
 
@@ -32,7 +32,7 @@ Welcome to my GitHub, where I present a collection of five machine learning proj
 
 **Machine Learning Concepts:** Natural Language Processing, TF-IDF, Bag-Of-Words
 
-**Notebook:** [Link to Notebook](03_sentiment_analysis/twitter_sentiment_analysis.ipynb)
+**Notebook:** [Link to Notebook](03sentiment_analysis/twitter_sentiment_analysis.ipynb)
 
 ### 4. Country Segmentation
 
@@ -42,7 +42,7 @@ Welcome to my GitHub, where I present a collection of five machine learning proj
 
 **Machine Learning Concepts:** Principal Component Analysis (PCA), K-means Clustering
 
-**Notebook:** [Link to Notebook](04_country_segmentation/country_segmentation.ipynb)
+**Notebook:** [Link to Notebook](04country_segmentation/country_segmentation.ipynb)
 
 ### 5. Image Classification 
 
@@ -52,7 +52,7 @@ Welcome to my GitHub, where I present a collection of five machine learning proj
 
 **Machine Learning Concepts:** Neural Networks, Deep Learning
 
-**Notebook:** [Link to Notebook](05_image_classification/image_classification.ipynb)
+**Notebook:** [Link to Notebook](05image_classification/image_classification.ipynb)
 
 ## About Me
 
